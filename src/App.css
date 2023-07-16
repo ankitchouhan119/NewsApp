@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* NAVBAR */
+@media screen and (min-width:992px){
+  .nav-item {
+  line-height:80px;
+  }
+}
